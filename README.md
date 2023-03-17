@@ -7,4 +7,6 @@ Aprendendo sobre métodos.
  
  ## Classe SmartTV
  ![Smart](https://user-images.githubusercontent.com/91918988/224569702-be9bb873-1d71-47a4-bd51-8703462378dd.png)
+ 
+ # Decidi continuar acumulando codigos e anotações do bootcamp nesse repositorio. :)
 
